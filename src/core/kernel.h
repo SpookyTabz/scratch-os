@@ -1,0 +1,7 @@
+namespace simple
+{
+    class kernel
+    {
+
+    };
+}
