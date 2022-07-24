@@ -1,14 +1,14 @@
 # scratch-os
 this os is from scratch and in c++
 
+edit folder vscode to .vscode
+
 ## Dependencies
 * [docker](https://www.docker.com/)
 ### Windows
 * [ubuntu for windows](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
 ### Ubuntu
 * [ubuntu](https://ubuntu.com/)
-
-after external dependencies is installed and setup look in the file called dependencies.txt
 
 ## Building
 ### with docker
